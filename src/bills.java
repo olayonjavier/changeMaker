@@ -14,9 +14,9 @@ public class bills {
 	
 	public static void makeChange(double amount){
 		double trackAmount = 0.00;
-		while(!compareTo(amount, trackAmount)){
+		//while(!compareTo(amount, trackAmount)){
 			
-		}
+		//}
 	}
 	
 	public boolean compareTo(double a, double b){
